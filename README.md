@@ -1,139 +1,206 @@
-<h1 align="center">Hi 👋, I'm EL MAIMOUNI MOHAMED</h1>
+# <div align="center">
 
-<h3 align="center">
-Full-Stack Developer • AI & Machine Learning Engineer • Data Scientist
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+EL+MAIMOUNI+MOHAMED;Full-Stack+Developer;AI+%26+Machine+Learning+Engineer;Data+Science+Enthusiast;Always+Learning+New+Technologies" />
 
-<p align="center">
-Passionate about building intelligent applications, scalable web platforms, and solving real-world problems with Artificial Intelligence.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=220&section=header&text=EL%20MAIMOUNI%20MOHAMED&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20&%20Machine%20Learning%20Engineer&descAlignY=58"/>
+
+</div>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=el-maimouni-mohamed&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=EL-MAIMOUNI-MOHAMED&theme=algolia&margin-w=15&margin-h=15"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=EL-MAIMOUNI-MOHAMED&style=for-the-badge&color=3B82F6"/>
+
+<img src="https://img.shields.io/github/followers/EL-MAIMOUNI-MOHAMED?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/EL-MAIMOUNI-MOHAMED?style=for-the-badge&logo=github"/>
+
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 👨🏻‍💻 About Me
 
-- 🔭 Currently working on **QuickNotes** (Cross-platform Note Taking App)
-- 🏡 Building **Semsarna**, an AI-powered Real Estate Platform
-- 🤖 Developing AI & Machine Learning applications
-- 🌱 Currently learning **LLMs, MLOps, Cloud Computing & Advanced Deep Learning**
-- 👯 Looking to collaborate on **Open Source AI and Full-Stack projects**
-- 💬 Ask me about **Python, React, Next.js, Node.js, Machine Learning, Data Science and Docker**
-- 📫 Reach me at **mohamedelmaimouni2023@gmail.com**
+<img align="right" width="320" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png">
+
+```python
+class Mohamed:
+
+    def __init__(self):
+        self.name = "EL MAIMOUNI MOHAMED"
+
+        self.role = [
+            "Full-Stack Developer",
+            "AI & Machine Learning Engineer"
+        ]
+
+        self.location = "Morocco 🇲🇦"
+
+        self.current_projects = [
+            "QuickNotes",
+            "Semsarna",
+            "AI & Machine Learning Applications"
+        ]
+
+        self.learning = [
+            "Large Language Models",
+            "Deep Learning",
+            "Computer Vision",
+            "MLOps",
+            "Cloud Computing"
+        ]
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Data Science",
+            "Software Engineering",
+            "Open Source"
+        ]
+```
+
+## 🚀 Currently
+
+- 🔭 Building **QuickNotes** (React • React Native • Express • PostgreSQL)
+
+- 🏡 Developing **Semsarna**, an AI-powered Real Estate Platform
+
+- 🤖 Creating Machine Learning & Computer Vision projects
+
+- 🌱 Learning **LLMs, Deep Learning, MLOps and Cloud**
+
+- 👯 Looking to collaborate on **AI, Data Science and Open Source**
+
+- 💬 Ask me about **Python, React, Next.js, Machine Learning and Node.js**
+
+- 📫 **mohamedelmaimouni2023@gmail.com**
 
 ---
 
-# 🌐 Connect with Me
+# 🛠 Tech Stack
 
-<p align="left">
-<a href="https://github.com/EL-MAIMOUNI-MOHAMED">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
+## 💻 Languages
 
-<a href="https://linkedin.com/in/mohamed-el-maimouni">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,php,cpp,html,css"/>
+</p>
 
-<a href="mailto:mohamedelmaimouni2023@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+## ⚛ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass"/>
+</p>
+
+## ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+## 🤖 Artificial Intelligence
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikitlearn,opencv,matplotlib,seaborn"/>
+</p>
+
+## 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+</p>
+
+## ☁ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma,aws,vscode"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-⭐ **QuickNotes**
-> Cross-platform note-taking application built with React, React Native, Express.js, PostgreSQL and Docker.
-
-⭐ **Semsarna**
-> AI-powered Moroccan Real Estate Platform.
-
-⭐ **Amazon Sales Analytics**
-> Data Analytics Dashboard using Python, Pandas, Matplotlib and Excel.
-
-⭐ **Bird Classification**
-> Deep Learning image classification using TensorFlow & Computer Vision.
+| Project | Description |
+|----------|-------------|
+| 📝 **QuickNotes** | Cross-platform note-taking application using React, React Native, Express.js and PostgreSQL |
+| 🏡 **Semsarna** | AI-powered Moroccan Real Estate Platform |
+| 📊 **Amazon Sales Analytics** | Business Intelligence Dashboard using Python & Excel |
+| 🐦 **Bird Classification** | Deep Learning image classification with TensorFlow |
+| 🤖 **Machine Learning Projects** | AI, NLP and Computer Vision experiments |
 
 ---
 
-# 💻 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,php,cpp,html,css" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,sass" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikitlearn,seaborn,matplotlib" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma,aws" />
-</p>
-
----
-
-# 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EL-MAIMOUNI-MOHAMED&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EL-MAIMOUNI-MOHAMED&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL-MAIMOUNI-MOHAMED&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL-MAIMOUNI-MOHAMED&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EL-MAIMOUNI-MOHAMED&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=EL-MAIMOUNI-MOHAMED&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EL-MAIMOUNI-MOHAMED&theme=tokyo-night"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EL-MAIMOUNI-MOHAMED&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-# ⚡ Fun Fact
+# 🏆 GitHub Trophies
 
-> I enjoy transforming ideas into intelligent AI-powered solutions and continuously exploring emerging technologies through hands-on projects.
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=EL-MAIMOUNI-MOHAMED&theme=algolia&row=1&column=7&margin-w=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/EL-MAIMOUNI-MOHAMED">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohamed-el-maimouni/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:mohamedelmaimouni2023@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Philosophy
+
+> *"Technology becomes meaningful when it solves real-world problems. I enjoy building intelligent software that combines clean engineering with the power of Artificial Intelligence."*
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you enjoy my work, consider giving a ⭐ to the repositories you like and feel free to connect with me.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=120&section=footer"/>
+
+</div>
