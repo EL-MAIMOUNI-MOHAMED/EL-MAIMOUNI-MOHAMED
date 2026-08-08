@@ -1,70 +1,48 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+EL+MAIMOUNI+MOHAMED;Full-Stack+Developer;AI+%26+Machine+Learning+Engineer;Data+Science+Enthusiast;Always+Learning+New+Technologies" />
+<img src="./assets/banner.svg" alt="EL MAIMOUNI MOHAMED — AI & Full-Stack Developer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=220&section=header&text=EL%20MAIMOUNI%20MOHAMED&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20&%20Machine%20Learning%20Engineer&descAlignY=58"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=3B82F6&center=true&vCenter=true&width=750&lines=%24+whoami;%3E+MOHAMED+EL+MAIMOUNI;%24+cat+role.txt;%3E+AI+%26+Full-Stack+Developer;%24+cat+status.txt;%3E+AI+Student+%40+FSBM+%7C+Grad+June+2026;%3E+Open+to+Internships+%26+Research" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=EL-MAIMOUNI-MOHAMED&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/EL-MAIMOUNI-MOHAMED?style=for-the-badge&logo=github&color=3B82F6"/>
-  <img src="https://img.shields.io/github/stars/EL-MAIMOUNI-MOHAMED?style=for-the-badge&logo=github&color=8B5CF6"/>
+  <img src="https://komarev.com/ghpvc/?username=EL-MAIMOUNI-MOHAMED&style=flat-square&color=3B82F6&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/EL-MAIMOUNI-MOHAMED?style=flat-square&logo=github&color=3B82F6&labelColor=0A0E14"/>
+  <img src="https://img.shields.io/github/stars/EL-MAIMOUNI-MOHAMED?style=flat-square&logo=github&color=3B82F6&labelColor=0A0E14"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Licence_d'Excellence_en_IA-0A0E14?style=flat-square&logo=googlescholar&logoColor=3B82F6"/>
+  <img src="https://img.shields.io/badge/Faculté_des_Sciences_Ben_M'Sick-0A0E14?style=flat-square&logo=googlescholar&logoColor=3B82F6"/>
+  <img src="https://img.shields.io/badge/Casablanca--Settat%2C_Maroc-0A0E14?style=flat-square&logo=googlemaps&logoColor=3B82F6"/>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/mohamed-el-maimouni"><img src="https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/></a>
+  <a href="mailto:mohamedelmaimouni2023@gmail.com"><img src="https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=3B82F6"/></a>
+  <a href="https://github.com/EL-MAIMOUNI-MOHAMED"><img src="https://img.shields.io/badge/GitHub-0A0E14?style=for-the-badge&logo=github&logoColor=3B82F6"/></a>
 </p>
 
 </div>
 
 ---
 
-## 👨🏻‍💻 About Me
+### `$ cat about.md`
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png">
+Artificial Intelligence student pursuing a **Licence d'Excellence en Intelligence Artificielle** at the Faculté des Sciences Ben M'Sick, Hassan II University of Casablanca (graduating June 2026). My background combines Machine Learning, Deep Learning, NLP, Data Science, IoT and Full-Stack Development — I like building intelligent applications that connect AI models with backend systems, databases and modern user interfaces.
 
-```python
-class Mohamed:
-    def __init__(self):
-        self.name = "EL MAIMOUNI MOHAMED"
-        self.role = [
-            "Full-Stack Developer",
-            "AI & Machine Learning Engineer",
-        ]
-        self.location = "Morocco 🇲🇦"
-
-        self.current_projects = [
-            "QuickNotes",
-            "Semsarna",
-            "AI & Machine Learning Applications",
-        ]
-
-        self.learning = [
-            "Large Language Models",
-            "Deep Learning",
-            "Computer Vision",
-            "MLOps",
-            "Cloud Computing",
-        ]
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Data Science",
-            "Software Engineering",
-            "Open Source",
-        ]
+```bash
+ROLE     : AI & Full-Stack Developer
+DOMAIN   : Machine Learning, Deep Learning, NLP, Data Science, IoT
+STACK    : Python, PyTorch, React, Next.js, NestJS, Django, PostgreSQL
+STATUS   : AI student @ FSBM Casablanca — graduating June 2026
+OPEN_TO  : Internships, entry-level roles, research collaborations,
+           impactful AI / Data Science / Full-Stack projects
+CONTACT  : mohamedelmaimouni2023@gmail.com
 ```
-
-### 🚀 Currently
-
-- 🔭 Building **QuickNotes** — React • React Native • Express • PostgreSQL
-- 🏡 Developing **Semsarna**, an AI-powered Real Estate Platform
-- 🤖 Creating Machine Learning & Computer Vision projects
-- 🌱 Learning **LLMs, Deep Learning, MLOps and Cloud**
-- 👯 Looking to collaborate on **AI, Data Science and Open Source**
-- 💬 Ask me about **Python, React, Next.js, Machine Learning and Node.js**
-- 📫 **mohamedelmaimouni2023@gmail.com**
-
-<br clear="right"/>
 
 ---
 
-## 🛠 Tech Stack
+### `$ ls tech-stack/`
 
 <table>
 <tr>
@@ -98,85 +76,155 @@ class Mohamed:
 
 ---
 
-## 🚀 Featured Projects
+### `$ cat specialties.md`
 
-| Project | Description |
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0A0E14?style=for-the-badge&logo=openai&logoColor=3B82F6"/>
+  <img src="https://img.shields.io/badge/CNN-0A0E14?style=for-the-badge&logo=tensorflow&logoColor=3B82F6"/>
+  <img src="https://img.shields.io/badge/NLP-0A0E14?style=for-the-badge&logo=googlecloud&logoColor=3B82F6"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Dev-0A0E14?style=for-the-badge&logo=react&logoColor=3B82F6"/>
+</p>
+
+---
+
+### `$ ./run expertise --table`
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Machine Learning / Deep Learning | ⭐⭐⭐⭐☆ | PyTorch, scikit-learn, CNN, U-Net — from prediction models to signal detection |
+| Natural Language Processing | ⭐⭐⭐☆☆ | Semantic analysis, OpenAI API integration for automated feedback |
+| Full-Stack Development | ⭐⭐⭐⭐☆ | React, Next.js, NestJS, Django, PostgreSQL, REST APIs |
+| IoT & Embedded Systems | ⭐⭐⭐☆☆ | RFID + IoT integration for real-time inventory tracking |
+| Data Science | ⭐⭐⭐☆☆ | Python, predictive modeling (Random Forest), data-driven pipelines |
+
+---
+
+### `$ open featured-projects/`
+
+<details open>
+<summary><b>💊 PharmaSmart</b> — intelligent pharmaceutical inventory platform</summary>
+<br>
+
+| | |
 |---|---|
-| 📝 **QuickNotes** | Cross-platform note-taking app — React, React Native, Express.js, PostgreSQL |
-| 🏡 **Semsarna** | AI-powered Moroccan Real Estate Platform |
-| 📊 **Amazon Sales Analytics** | Business Intelligence Dashboard using Python & Excel |
-| 🐦 **Bird Classification** | Deep Learning image classification with TensorFlow |
-| 🤖 **ML Playground** | AI, NLP and Computer Vision experiments |
+| **Stack** | RFID, IoT, Django, React, PostgreSQL, Random Forest |
+| **What it does** | Intelligent pharmaceutical inventory platform combining RFID and IoT tracking with a Random Forest model for stockout-risk prediction |
+| **Role** | Full-stack + ML model development |
+
+</details>
+
+<details>
+<summary><b>🌍 PhaseNet</b> — deep learning seismic phase detection</summary>
+<br>
+
+| | |
+|---|---|
+| **Stack** | U-Net, Deep Learning, Python |
+| **What it does** | U-Net-based model for automatic seismic phase detection, trained on 10,000 real STEAD traces, achieving ~98.6% F1-score |
+| **Role** | Model design & training |
+
+</details>
+
+<details>
+<summary><b>📝 Evalya Smart</b> — AI-assisted educational assessment platform</summary>
+<br>
+
+| | |
+|---|---|
+| **Stack** | OpenAI API, Google Cloud Vision OCR, Node.js, React, React Native, PostgreSQL, AWS S3 |
+| **What it does** | AI-assisted web and mobile assessment platform with semantic analysis, automated feedback, and OCR for scanned submissions |
+| **Role** | Contributed REST APIs, user dashboards, document storage and mobile features (built during internship at IAAI) |
+
+</details>
+
+<details>
+<summary><b>🏡 IMDAA</b> — real estate platform (web + mobile)</summary>
+<br>
+
+| | |
+|---|---|
+| **Stack** | Next.js, Node.js, PostgreSQL, React Native |
+| **What it does** | Web and mobile real-estate platform |
+| **Role** | Full-stack development |
+
+</details>
 
 ---
 
-## 📊 GitHub Analytics
+### `$ cat languages.txt`
 
-<!--
-  NOTE ON RELIABILITY:
-  github-readme-stats & github-profile-trophy run on ONE shared free Vercel
-  deployment used by millions of profiles. GitHub's API rate limit gets hit
-  constantly, so the images randomly break for everyone, not just you.
-  cache_seconds is kept low here (max 1800 for stats API) so a broken image
-  doesn't get stuck cached for a full day. If these ever go blank again:
-    1. Open the image URL directly in a new tab — if you get a 403/429/500,
-       the shared server is rate-limited (not your markdown).
-    2. Fastest permanent fix: fork the repo and deploy your OWN free instance
-       on Vercel with your own GitHub token (1-click "Deploy" button on
-       https://github.com/anuraghazra/github-readme-stats and
-       https://github.com/ryo-ma/github-profile-trophy), then swap the
-       domain below for your own *.vercel.app URL.
--->
+| Language | Level |
+|---|---|
+| Arabic | Native / Bilingual |
+| French | Professional Working |
+| English | Professional Working |
+| Spanish | Conversational |
+
+---
+
+### `$ ./github-stats --analyze`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EL-MAIMOUNI-MOHAMED&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL-MAIMOUNI-MOHAMED&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=EL-MAIMOUNI-MOHAMED&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EL-MAIMOUNI-MOHAMED&layout=compact&hide_border=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EL-MAIMOUNI-MOHAMED&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=EL-MAIMOUNI-MOHAMED&hide_border=true&background=0A0E14&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=8A9BA8&currStreakNum=ffffff&sideNums=ffffff&dates=8A9BA8"/>
 </p>
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EL-MAIMOUNI-MOHAMED&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EL-MAIMOUNI-MOHAMED&bg_color=0A0E14&color=3B82F6&line=3B82F6&point=ffffff&hide_border=true&area=true"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EL-MAIMOUNI-MOHAMED&theme=algolia&row=1&column=7&margin-w=15&no-frame=true&no-bg=false"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EL-MAIMOUNI-MOHAMED&theme=github_dark"/>
 </p>
-
----
-
-## 🌍 Connect With Me
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EL-MAIMOUNI-MOHAMED&theme=github_dark"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EL-MAIMOUNI-MOHAMED&theme=github_dark"/>
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EL-MAIMOUNI-MOHAMED&theme=github_dark"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EL-MAIMOUNI-MOHAMED&theme=github_dark&utcOffset=1"/>
+</p>
 
 <p align="center">
-  <a href="https://github.com/EL-MAIMOUNI-MOHAMED"><img src="https://skillicons.dev/icons?i=github"/></a>
-  <a href="https://www.linkedin.com/in/mohamed-el-maimouni/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="mailto:mohamedelmaimouni2023@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-## 💡 Philosophy
+### `$ cat currently.yaml`
 
-> *"Technology becomes meaningful when it solves real-world problems. I enjoy building intelligent software that combines clean engineering with the power of Artificial Intelligence."*
+```yaml
+studying:
+  - Licence d'Excellence en Intelligence Artificielle @ FSBM (grad June 2026)
+building:
+  - PharmaSmart: RFID + IoT + Django + React + PostgreSQL + Random Forest
+  - PhaseNet: U-Net deep learning model for seismic phase detection
+exploring:
+  - Natural Language Processing
+  - Computer Vision
+  - Data Science
+  - IoT
+open_to:
+  - Internships
+  - Entry-level opportunities
+  - Research collaborations
+  - AI / Data Science / Full-Stack projects
+```
 
 ---
 
-<div align="center">
+### `$ ./connect --all`
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+  <a href="https://github.com/EL-MAIMOUNI-MOHAMED"><img src="https://img.shields.io/badge/GitHub-0A0E14?style=for-the-badge&logo=github&logoColor=3B82F6"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-el-maimouni"><img src="https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/></a>
+  <a href="mailto:mohamedelmaimouni2023@gmail.com"><img src="https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=3B82F6"/></a>
+</p>
 
-If you enjoy my work, consider giving a ⭐ to the repositories you like.
+<p align="center"><i>"Building intelligent applications that connect AI models with backend systems, databases and modern user interfaces."</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=120&section=footer"/>
-
-</div>
+<p align="center"><img src="./assets/footer.svg" alt="footer"/></p>
