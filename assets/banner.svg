@@ -1,0 +1,13 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0E14"/>
+      <stop offset="100%" stop-color="#111726"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="220" rx="14" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="218" rx="13" fill="none" stroke="#3B82F6" stroke-opacity="0.35" stroke-width="1.5"/>
+  <text x="450" y="115" text-anchor="middle" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="40" font-weight="700" fill="#3B82F6">EL MAIMOUNI MOHAMED</text>
+  <text x="450" y="155" text-anchor="middle" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="16" fill="#8A9BA8">AI &amp; Full-Stack Developer • ML / DL / NLP / Data Science</text>
+  <text x="450" y="45" text-anchor="middle" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#3B82F6" opacity="0.6">$ whoami</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="900" height="90" viewBox="0 0 900 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111726"/>
+      <stop offset="100%" stop-color="#0A0E14"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="90" rx="12" fill="url(#bg2)"/>
+  <rect x="1" y="1" width="898" height="88" rx="11" fill="none" stroke="#3B82F6" stroke-opacity="0.3" stroke-width="1.5"/>
+  <text x="450" y="52" text-anchor="middle" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="14" fill="#3B82F6">$ echo "thanks for stopping by"</text>
+</svg>
